@@ -16,18 +16,6 @@ Detecção de Vitória ou Empate: O jogo detecta automaticamente quando um jogad
 
 Reiniciar o Jogo: Após o fim de uma partida, você pode reiniciar o jogo a qualquer momento.
 
-Como Jogar
-
-Abra o app.
-
-Escolha entre jogar contra outro jogador ou contra o computador, ativando o interruptor.
-
-Toque em uma célula do tabuleiro para fazer sua jogada.
-
-O jogo alterna automaticamente entre os jogadores.
-
-O vencedor será mostrado em um diálogo e você poderá reiniciar o jogo a qualquer momento.
-
 Tecnologias Utilizadas
 
 Flutter: Framework para desenvolvimento multiplataforma.
